@@ -1,4 +1,4 @@
-#!/Users/taofeeka/pyBench/django-react-blog/blog-src/envdjr/bin/python3.9
+#!/Users/taofeeka/pyBench/django-react-blog/blog-src/envdjr/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
